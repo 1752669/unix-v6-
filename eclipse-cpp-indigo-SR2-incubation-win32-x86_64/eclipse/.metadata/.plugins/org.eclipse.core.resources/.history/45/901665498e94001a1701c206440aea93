@@ -1,0 +1,32 @@
+#include<stdlib.h>
+#include<sys.h>
+#include<stdio.h>
+#include<string.h>
+
+
+int main2()
+{
+		char* x="root\0";
+		char* y="root\0";
+		char* name;
+		char* password;
+		gets(name);
+		gets(password);
+		if(name == x)
+		{	if(password == y)
+			{printf("mm");}
+			else
+			printf("xx");
+		}
+		else
+		{
+			printf("zz");
+		}
+		char* c = name - x-'0';
+		printf(c);
+		char* m = password - y-'0';
+		printf(m);
+
+
+	return 0;
+}

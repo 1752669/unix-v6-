@@ -1,0 +1,33 @@
+#include<stdlib.h>
+#include<stddef.h>
+#include<sys.h>
+#include<stdio.h>
+#include<string.h>
+
+
+int main2()
+{
+static const char* m = "root";
+static const char* n = "yy";
+const char* name;
+const char* password;
+printf("UserId: ");
+gets(name);
+if(name == m)
+printf("true \n");
+else printf("name Error \n;");
+
+printf(name);
+
+printf("password: ");
+gets(password);
+printf("\n");
+if(password == n)
+printf("true \n");
+else printf("pass Error \n;");
+printf(password);
+printf("\n");
+
+
+		return 0;
+}

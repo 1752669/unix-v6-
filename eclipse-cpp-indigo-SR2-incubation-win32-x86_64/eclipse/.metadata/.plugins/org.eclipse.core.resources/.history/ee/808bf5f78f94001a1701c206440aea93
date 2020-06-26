@@ -1,0 +1,32 @@
+#include<stdlib.h>
+#include<sys.h>
+#include<stdio.h>
+#include<string.h>
+
+
+int main2()
+{
+		char* x="root";
+		char* y="root";
+		char* name;
+		char* password;
+		gets(name);
+		gets(password);
+		if(name == name)
+		{	if(password == password)
+			{
+			printf("mm");
+			}
+			else
+			printf("xx");
+		}
+		else
+		{
+			printf("zz");
+		}
+		int i = 0;
+		while(name[i]!='0')
+		printf(name[i]);
+
+	return 0;
+}

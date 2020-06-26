@@ -1,0 +1,301 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Target selection failed.",1589304969201
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589304969222
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589304976854
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589304986928
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1589305084268
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305140038
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589305140104
+error,log,,,"Target selection failed.",1589305147775
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305147813
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305166158
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1589305166185
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305172596
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305172845
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305178422
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305216018
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589305216075
+error,log,,,"Target selection failed.",1589305223372
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305223419
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305225251
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305239226
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305268387
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589305268422
+error,log,,,"Target selection failed.",1589305275656
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305275706
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305285069
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589305285084
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1589305287213
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305289236
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305420945
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305422675
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305422906
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305427442
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305517579
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305519175
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305644196
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305647157
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305787875
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1589305794409
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305797793
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305799999
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1589305803223
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305808053
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305827932
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589305827973
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305832616
+error,log,,,"Target selection failed.",1589305835971
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589305836116
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589305836129
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305947665
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589305947691
+error,log,,,"Internal error logged from CDI Debug: ",1589305955196
+error,log,,,"Target request failed: Error creating process C:\\Users\\YY  WYX\\Desktop\\unix v6++\\oos\\targets\\objs\\kernel.exe, (error 193).",1589305955231
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305955314
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305963737
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305969229
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589305992620
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589305992650
+error,log,,,"Internal error logged from CDI Debug: ",1589305999869
+error,log,,,"Target request failed: Error creating process C:\\Intel\\unix v6++\\oos\\targets\\objs\\kernel.exe, (error 193).",1589305999900
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306000082
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306008177
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306015987
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306021470
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306021500
+error,log,,,"Internal error logged from CDI Debug: ",1589306028781
+error,log,,,"Target request failed: Error creating process C:\\Intel\\unix v6++\\oos\\targets\\objs\\kernel.exe, (error 193).",1589306028811
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306028910
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306036063
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306040341
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306082745
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306082782
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306084436
+error,log,,,"Target selection failed.",1589306090803
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306097466
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306101643
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306111970
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306118291
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306322776
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306330571
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306358366
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306360351
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306369767
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306369816
+error,log,,,"Target selection failed.",1589306377945
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306378012
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306380639
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306382277
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306398665
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306404856
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306473852
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306473891
+error,log,,,"Target selection failed.",1589306481751
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306481813
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306484007
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306486346
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306531323
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306535727
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306580839
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306580865
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306584651
+error,log,,,"Target selection failed.",1589306588806
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306615250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306620459
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306631537
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306631568
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306634488
+error,log,,,"Target selection failed.",1589306639384
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306683743
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306686712
+started,bundle,org.eclipse.ui.externaltools,3.2.0.v20111007_r372,"org.eclipse.ui.externaltools",1589306738677
+started,bundle,org.eclipse.cdt.dsf.ui,2.2.1.201202111925,"org.eclipse.cdt.dsf.ui",1589306754648
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306768624
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306768659
+error,log,,,"Target selection failed.",1589306775852
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306775886
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306778587
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306791271
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306804469
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306808766
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306819653
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306819703
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306825877
+error,log,,,"Internal error logged from CDI Debug: ",1589306827376
+error,log,,,"Target request failed: Error creating process C:\\Intel\\unix v6++\\oos\\targets\\objs\\kernel.exe, (error 193).",1589306827411
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306829950
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306831415
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306838578
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306841066
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306857273
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306857304
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306860005
+error,log,,,"Target selection failed.",1589306864871
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306884167
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306884936
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306892013
+error,log,,,"Target selection failed.",1589306901797
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306901864
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306905454
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306906284
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306913177
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306914301
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306928444
+error,log,,,"Target selection failed.",1589306937481
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306937549
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306941374
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306948453
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306963871
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589306963926
+error,log,,,"Target selection failed.",1589306971412
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589306971480
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1589306981548
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307031188
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307035674
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307052041
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589307052071
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307052717
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307059917
+error,log,,,"Target selection failed.",1589307068933
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307069017
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307078628
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307082808
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307085342
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1589307086604
+error,log,,,"Target selection failed.",1589307088943
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307088976
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307089111
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589307089134
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307091424
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.copy",1589307255597
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307287978
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307289468
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307611629
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307617281
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307617554
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589307643339
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589308876413
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589308880504
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589308886829
+error,log,,,"Target selection failed.",1589308896310
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589308896401
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589308901040
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589308906384
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589308913221
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589308913250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589308914502
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309323788
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1589309331067
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309333836
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309342220
+error,log,,,"Target selection failed.",1589309351373
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309351417
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309351559
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589309351584
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309363928
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309364153
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1589309374165
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309376547
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309410027
+error,log,,,"Target selection failed.",1589309419960
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309420022
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309420197
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589309420229
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309427776
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309428009
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309439657
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309465158
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589309465224
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309468188
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309486844
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309488720
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309500275
+error,log,,,"Target selection failed.",1589309509219
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309509319
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309513726
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309515067
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309683463
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309687735
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309699592
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589309699643
+error,log,,,"Internal error logged from CDI Debug: ",1589309707659
+error,log,,,"Target request failed: Error creating process C:\\Intel\\unix v6++\\oos\\targets\\objs\\kernel.exe, (error 193).",1589309707705
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309707777
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309710824
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309715515
+started,bundle,org.eclipse.cdt.launch.remote,2.3.0.201202111925,"org.eclipse.cdt.launch.remote",1589309723446
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309736733
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589309736771
+error,log,,,"Internal error logged from CDI Debug: ",1589309744349
+error,log,,,"Target request failed: Error creating process C:\\Intel\\unix v6++\\oos\\targets\\objs\\kernel.exe, (error 193).",1589309744382
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.debug.core"".",1589309744390
+error,log,,,"An exception occurred while dispatching debug events.",1589309744393
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309744457
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309764792
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309769507
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309823302
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenRunConfigurations",1589309823346
+error,log,,,"Error starting process.",1589309829626
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309829660
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309835769
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309841524
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309867064
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589309867115
+error,log,,,"Target selection failed.",1589309874370
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309874453
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309879306
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309881477
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309895314
+error,log,,,"Target selection failed.",1589309902957
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309903042
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309910494
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309921156
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309921368
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589309925723
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310454537
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310456523
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310464008
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1589310469145
+error,log,,,"Target selection failed.",1589310478311
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310478385
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310478567
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589310478624
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310483762
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310490574
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310494271
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310515767
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589310515799
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310516640
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310522039
+error,log,,,"Target selection failed.",1589310532778
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310532864
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310540822
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310549874
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310702990
+activated,editor,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui.editor.CEditor",1589310705732
+closed,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589310705788
+executed,command,,,"AUTOGEN:::org.eclipse.cdt.debug.ui.CEditor.BreakpointRulerActions/org.eclipse.cdt.debug.ui.CEditor.RulerTobbleBreakpointAction",1589310711896
+executed,command,,,"AUTOGEN:::org.eclipse.cdt.debug.ui.CEditor.BreakpointRulerActions/org.eclipse.cdt.debug.ui.CEditor.RulerTobbleBreakpointAction",1589310713362
+executed,command,,,"AUTOGEN:::org.eclipse.cdt.debug.ui.CEditor.BreakpointRulerActions/org.eclipse.cdt.debug.ui.CEditor.RulerTobbleBreakpointAction",1589310714891
+executed,command,,,"AUTOGEN:::org.eclipse.cdt.debug.ui.CEditor.BreakpointRulerActions/org.eclipse.cdt.debug.ui.CEditor.RulerTobbleBreakpointAction",1589310716319
+executed,command,,,"AUTOGEN:::org.eclipse.cdt.debug.ui.CEditor.BreakpointRulerActions/org.eclipse.cdt.debug.ui.CEditor.RulerTobbleBreakpointAction",1589310717586
+executed,command,,,"AUTOGEN:::org.eclipse.cdt.debug.ui.CEditor.BreakpointRulerActions/org.eclipse.cdt.debug.ui.CEditor.RulerTobbleBreakpointAction",1589310718882
+executed,command,,,"AUTOGEN:::org.eclipse.cdt.debug.ui.CEditor.BreakpointRulerActions/org.eclipse.cdt.debug.ui.CEditor.RulerTobbleBreakpointAction",1589310720059
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1589310722246
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310725308
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310782942
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310788523
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310812219
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589310812248
+opened,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589310812623
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589310812712
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1589310812735
+error,log,,,"Internal error logged from CDI Debug: ",1589310819936
+error,log,,,"Target request failed: Error creating process C:\\Intel\\unix v6++\\oos\\targets\\objs\\kernel.exe, (error 193).",1589310819962
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1589310819999
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310821079
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310822970
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310826899
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310857382
+executed,command,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui.commands.OpenDebugConfigurations",1589310857423
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1589310858712

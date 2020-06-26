@@ -1,0 +1,18 @@
+include ../Makefile.inc
+
+TARGET = ..\..\targets\objs
+
+all		:	$(TARGET)\tty.o $(TARGET)\keyboard.o $(TARGET)\crt.o
+			
+$(TARGET)\tty.o	:	TTy.cpp $(INCLUDE)\TTy.h
+	$(CC) $(CFLAGS) -I"$(INCLUDE)" -c $< -o $@
+
+$(TARGET)\keyboard.o	:	Keyboard.cpp $(INCLUDE)\Keyboard.h
+	$(CC) $(CFLAGS) -I"$(INCLUDE)" -c $< -o $@	
+
+$(TARGET)\crt.o	:	CRT.cpp $(INCLUDE)\CRT.h
+	$(CC) $(CFLAGS) -I"$(INCLUDE)" -c $< -o $@
+	
+$(TARGET)\login.o	:	Login.cpp $(INCLUDE)\Login.h
+	$(CC) $(CFLAGS) -I"$(INCLUDE)" -c $< -o $@
+	

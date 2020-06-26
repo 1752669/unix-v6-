@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/dev/CharDevice.cpp=GBK
+encoding//src/lib/src/stdio.c=GBK
+encoding//src/program/Log.c=UTF-8
+encoding//src/shell/main.c=GBK
+encoding/<project>=GBK

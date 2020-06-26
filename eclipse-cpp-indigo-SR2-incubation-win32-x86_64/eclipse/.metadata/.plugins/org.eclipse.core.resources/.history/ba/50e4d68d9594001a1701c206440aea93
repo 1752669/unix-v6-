@@ -1,0 +1,45 @@
+#include<stdlib.h>
+#include<stddef.h>
+#include<sys.h>
+#include<stdio.h>
+#include<string.h>
+
+
+int main2()
+{
+		 char* x[5]= NULL;
+		 char* y[5]= NULL;
+		y=x="root";
+		char* name = NULL;
+		char* password = NULL;
+		gets(name);
+		gets(password);
+		if(name == x)
+		{	if(password == y)
+			{
+			printf("mm");
+			}
+			else
+			printf("xx");
+		}
+		else
+		{
+			printf("zz");
+		}
+		int i =0;
+	/*	while(name[i]!='0')
+		{	printf(name[i]);
+			i++;
+		}
+		printf("\n");*/
+
+	int j =0;
+	while(x[j]!='0')
+	{	printf(x[j]);
+		j++;
+			}
+	printf('\n');
+	printf(j-'0');
+
+	return 0;
+}

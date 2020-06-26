@@ -1,0 +1,116 @@
+#include "CharDevice.h"
+#include "Utility.h"
+#include "Kernel.h"
+#include"CRT.h"
+#include"TTy.h"
+#include "video.h"
+/*==============================class CharDevice===============================*/
+CharDevice::CharDevice()
+{
+	this->m_TTy[0] = NULL;
+	this->m_TTy[1] = NULL;
+}
+
+CharDevice::~CharDevice()
+{
+	//nothing to do here
+}
+
+void CharDevice::Open(short dev, int mode)
+{
+	Utility::Panic("ERROR! Base Class: CharDevice::Open()!");
+}
+
+void CharDevice::Close(short dev, int mode)
+{
+	Utility::Panic("ERROR! Base Class: CharDevice::Close()!");
+}
+
+void CharDevice::Read(short dev)
+{
+	Utility::Panic("ERROR! Base Class: CharDevice::Read()!");
+}
+
+void CharDevice::Write(short dev)
+{
+	Utility::Panic("ERROR! Base Class: CharDevice::Write()!");
+}
+
+void CharDevice::SgTTy(short dev, TTy* pTTy)
+{
+	Utility::Panic("ERROR! Base Class: CharDevice::SgTTy()!");
+}
+
+
+/*==============================class ConsoleDevice===============================*/
+/* 
+ * ï¿½ï¿½ï¿½ï¶¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ConsoleDeviceï¿½Ä¶ï¿½ï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½
+ * ï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½overrideï¿½ï¿½ï¿½Ö·ï¿½ï¿½è±¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ * Open(), Close(), Read(), Write()ï¿½ï¿½ï¿½éº¯ï¿½ï¿½ï¿½ï¿½
+ */
+ConsoleDevice g_ConsoleDevice;
+
+extern TTy g_TTy[2];
+ConsoleDevice::ConsoleDevice()
+{
+	//nothing to do here
+}
+
+ConsoleDevice::~ConsoleDevice()
+{
+	//nothing to do here
+}
+void ConsoleDevice::Open(short dev, int mode)
+{
+	short minor = Utility::GetMinor(dev);//»ñÈ¡´ÓÉè±¸ºÅ
+	User& u = Kernel::Instance().GetUser();
+	if ( minor != 0 && minor != 1 )	/* ÅÐ¶Ïconsole */
+	{
+		return;
+	}
+/* ï¿½ï¿½ï¿½Ý´ï¿½ï¿½è±¸ï¿½Å´ï¿½ï¿½ï¿½TTy */
+	if ( NULL == this->m_TTy[minor] )
+	{
+		this->m_TTy[minor] = &g_TTy[minor];
+		m_TTy[minor]->ntty = minor;
+	}
+/*Èç¹ûµÚÒ»´Î´ò¿ªÕâ¸öÉè±¸*/
+	if(NULL == u.u_procp->p_ttyp)
+	{
+		u.u_procp->p_ttyp = this->m_TTy[minor];
+	}
+
+
+	/* ×Ö·ûÉè±¸Ä£Ê½ */
+	if ( (this->m_TTy[minor]->t_state & TTy::ISOPEN) == 0 )
+	{
+		this->m_TTy[minor]->t_state = TTy::ISOPEN | TTy::CARR_ON;
+		this->m_TTy[minor]->t_flags = TTy::ECHO;
+		this->m_TTy[minor]->t_erase = TTy::CERASE;
+		this->m_TTy[minor]->t_kill = TTy::CKILL;
+	}
+}
+
+void ConsoleDevice::Close(short dev, int mode)
+{
+	//nothing to do here
+}
+
+void ConsoleDevice::Read(short dev)
+{
+	short minor = Utility::GetMinor(dev);
+	if ( 0 == minor || 1 == minor)
+		this->m_TTy[minor]->TTRead();	/* ÅÐ¶Ïconsole */
+
+}
+
+void ConsoleDevice::Write(short dev)
+{
+	short minor = Utility::GetMinor(dev);
+	if ( 0 == minor || 1 == minor)
+		this->m_TTy[minor]->TTWrite();	/*ÅÐ¶Ïconsole */
+}
+
+void ConsoleDevice::SgTTy(short dev, TTy *pTTy)
+{
+}

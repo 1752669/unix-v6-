@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="false" key="caseSensitive"/>
+		<item value="227191" key="searchFlags"/>
+		<list key="previousPatterns">
+			<item value="FileSysytem"/>
+			<item value="User::EIO"/>
+			<item value="User"/>
+			<item value="u_error"/>
+			<item value="uerror"/>
+			<item value="p_ttyp"/>
+			<item value="ISOPEN"/>
+			<item value="TTyisOpen"/>
+			<item value="t_flags"/>
+			<item value="lib_open"/>
+			<item value="Log"/>
+			<item value="printf"/>
+		</list>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+</section>

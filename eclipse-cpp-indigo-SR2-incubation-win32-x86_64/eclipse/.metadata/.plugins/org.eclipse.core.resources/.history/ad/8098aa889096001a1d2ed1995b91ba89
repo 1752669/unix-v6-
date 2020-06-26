@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main1(int argc, char* argv[])
+{
+	MoveToUserStack();
+		return 0;
+}

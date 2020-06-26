@@ -1,0 +1,10 @@
+!SESSION 2020-05-16 16:45:59.421 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-05-16 16:46:34.775
+!MESSAGE Indexed 'oos' (118 sources, 108 headers) in 3.83 sec: 7,480 declarations; 21,106 references; 2 unresolved inclusions; 9 syntax errors; 94 unresolved names (0.33%)

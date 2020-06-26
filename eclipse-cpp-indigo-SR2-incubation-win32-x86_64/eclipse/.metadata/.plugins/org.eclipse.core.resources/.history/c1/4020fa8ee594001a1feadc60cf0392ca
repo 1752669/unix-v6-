@@ -1,0 +1,15 @@
+#include<stdlib.h>
+#include<stddef.h>
+#include<sys.h>
+#include<stdio.h>
+#include<string.h>
+
+
+int main2()
+{
+
+
+
+
+		return 0;
+}

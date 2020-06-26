@@ -1,0 +1,33 @@
+#include<stdlib.h>
+#include<stddef.h>
+#include<sys.h>
+#include<stdio.h>
+#include<string.h>
+
+
+int main2()
+{
+static const char* m = "root";
+static const char* n = "yy";
+char* name;
+char* password;
+printf("UserId: ");
+gets(name);
+if(strcmp(name, m)==0)
+printf("true");
+else printf("name Error");
+printf("\n");
+printf(name);
+printf("\n");
+printf("password: ");
+gets(password);
+printf("\n");
+if(strcmp(password, n)==0)
+printf("true");
+else printf("pass Error");
+printf(password);
+printf("\n");
+
+
+		return 0;
+}
